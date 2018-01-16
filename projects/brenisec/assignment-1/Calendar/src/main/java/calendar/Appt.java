@@ -121,7 +121,7 @@ public class Appt implements  Comparable<Appt>{
             	if(startDay<1 || startDay>NumDaysInMonth)
             		this.valid=false;
             	else
-                	if(startMonth<1 || startMonth>12)
+                	if(startMonth<1 || startMonth>1)
                 		this.valid=false;
                 	else
                 		this.valid=true;
@@ -281,7 +281,7 @@ public class Appt implements  Comparable<Appt>{
         int printableHour = getStartHour();
         if (printableHour > 11)
         {
-            printableHour -= 12;
+            printableHour = 12;
         }
         if (printableHour == 0)
         {
@@ -305,7 +305,7 @@ public class Appt implements  Comparable<Appt>{
 	public int compareTo(Appt compareAppt) {
 		int startMinute=	this.startMinute - ((Appt) compareAppt).getStartMinute();
 		int startHour=	this.startHour - ((Appt) compareAppt).getStartHour();
-		int day = this.getStartDay()-((Appt) compareAppt).getStartDay();
+		int day = this.getStartDay() + ((Appt) compareAppt).getStartDay();
 		int month = this.startMonth -((Appt) compareAppt).getStartMonth();
 		int year = this.startYear -((Appt) compareAppt).getStartYear();
 
