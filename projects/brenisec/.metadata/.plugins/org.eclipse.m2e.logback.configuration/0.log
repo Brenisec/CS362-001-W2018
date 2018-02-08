@@ -1,0 +1,191 @@
+2018-01-15 18:08:05,694 [Worker-2] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-01-15 18:19:17,541 [Worker-5] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2018-01-15 18:20:46,639 [Worker-9] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: calendar:Calendar:1.0-SNAPSHOT @ C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\pom.xml.
+2018-01-15 18:20:46,639 [Worker-3] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: calendar:Calendar:1.0-SNAPSHOT @ C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\pom.xml.
+2018-01-15 18:20:47,269 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 18:20:47,270 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 18:20:47,273 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 18:20:47,273 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 18:20:47,694 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 18:20:47,694 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 18:20:47,696 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 18:20:47,696 [Worker-6] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 18:20:49,006 [Worker-7] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: calendar:Calendar:1.0-SNAPSHOT @ C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\pom.xml.
+2018-01-15 18:20:50,000 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 18:20:50,001 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 18:20:50,003 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 18:20:50,003 [Worker-5] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 20:23:38,625 [Worker-20] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: calendar:Calendar:1.0-SNAPSHOT @ C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\pom.xml.
+2018-01-15 20:23:38,865 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 20:23:38,865 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 20:23:38,868 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 20:23:38,940 [Worker-20] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:00:20,018 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:00:20,018 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:00:20,033 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:00:20,039 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:00:38,064 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:00:38,064 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:00:38,066 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:00:38,084 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:01:23,411 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:01:23,419 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:01:23,429 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:01:23,438 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:01:47,654 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:01:47,654 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:01:47,656 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:01:47,673 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:02:12,665 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:02:12,671 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:02:12,702 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:02:12,718 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:02:47,648 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:02:47,648 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:02:47,649 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:02:47,657 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:03:19,823 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:03:19,832 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:03:19,840 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:03:19,846 [Worker-31] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:03:38,923 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:03:38,924 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:03:38,933 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:03:38,944 [Worker-32] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:15:36,929 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:15:36,934 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:15:36,941 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:15:36,947 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:15:50,387 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:15:50,387 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:15:50,388 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:15:50,395 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:16:06,382 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:16:06,391 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:16:06,402 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:16:06,411 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:16:10,906 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:16:10,906 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:16:10,907 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:16:10,913 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:23:00,929 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:23:00,929 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:23:00,936 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:23:00,941 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:23:14,714 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:23:14,714 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:23:14,716 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:23:14,724 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:23:21,414 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:23:21,429 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:23:21,438 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:23:21,446 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:23:42,314 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:23:42,314 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:23:42,317 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:23:42,324 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:24:17,027 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:24:17,034 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:24:17,043 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:24:17,050 [Worker-43] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:26:36,738 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:26:36,738 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:26:36,739 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:26:36,747 [Worker-47] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:33:46,757 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:33:46,764 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:33:46,772 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:33:46,779 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:33:55,027 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:33:55,027 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:33:55,028 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:33:55,036 [Worker-48] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:34:05,134 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:34:05,141 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:34:05,148 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:34:05,157 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:34:12,543 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:34:12,543 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:34:12,545 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:34:12,554 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:35:59,042 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:35:59,061 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:35:59,069 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:35:59,076 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:36:02,324 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:36:02,324 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:36:02,326 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:36:02,332 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:36:58,066 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:36:58,078 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:36:58,085 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:36:58,092 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:37:13,938 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:37:13,939 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:37:13,940 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:37:13,947 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:38:28,496 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:38:28,502 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:38:28,509 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:38:28,515 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:38:44,868 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:38:44,869 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:38:44,870 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:38:44,880 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:38:52,420 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:38:52,430 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:38:52,438 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:38:52,444 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:38:56,176 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:38:56,177 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:38:56,178 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:38:56,185 [Worker-35] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:39:25,562 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:39:25,572 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:39:25,582 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:39:25,591 [Worker-52] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:39:47,582 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:39:47,582 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:39:47,583 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:39:47,592 [Worker-41] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:40:12,168 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:40:12,174 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:40:12,180 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:40:12,185 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:52:48,679 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:52:48,679 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:52:48,680 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:52:48,690 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:53:23,287 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:53:23,293 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:53:23,299 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:53:23,304 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:56:06,255 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:56:06,255 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:56:06,256 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:56:06,263 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:56:39,804 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:56:39,811 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:56:39,817 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:56:39,825 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:56:44,418 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:56:44,418 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:56:44,421 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:56:44,430 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:57:02,618 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:57:02,626 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:57:02,633 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:57:02,639 [Worker-53] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:57:12,334 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:57:12,335 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:57:12,336 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:57:12,343 [Worker-56] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 22:57:53,288 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:57:53,296 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 22:57:53,303 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 22:57:53,311 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-15 23:38:25,058 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 23:38:25,059 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\main\resources
+2018-01-15 23:38:25,061 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2018-01-15 23:38:25,075 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\Chris\Documents\GitHub\CS362-001-W2018\projects\brenisec\assignment-1\Calendar\src\test\resources
+2018-01-29 09:01:49,582 [Worker-3] INFO  c.g.t.t.d.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
