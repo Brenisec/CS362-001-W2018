@@ -1,0 +1,36 @@
+Bug report
+Bug name: Calendar.Appt.IsValid()
+Bug id: Appt1
+Description: This bug allowed the input of edge case values to be se as the startHour
+Reproduction: 
+-	Create a new appointment.
+-	Set the startHour to 0
+-	Call IsValid
+-	returns true
+Expected results:
+-	Isvalid should return false
+Severity: High severity
+Priority: High priority
+Software version: Gilesni.assignment-2
+
+
+
+
+ 
+Bug report
+Bug name: Calendar.CalDay.AddAppt()
+Bug id: AddAppt1
+Description: There is no return in AddAppt’s for loop. This bug causes the program to infinitely loop when an appointment is added to a calendar assuming it occurs prior to and other appointment on that calendar.
+Reproduction: 
+-	Create appointment1
+-	Create appointment2 with a date and time earlier than appointment1
+-	Create a Gregorian calendar
+-	Add appointment1 to Gregorian calendar.
+-	Add appointment2 to Gregorian calendar.
+-	Program hangs on a never ending loop to add appointment2 
+Expected results:
+-	AddAppt should add appointment and return.
+Severity: High severity
+Priority: High priority
+Software version: Gilesni.assignment-2
+
